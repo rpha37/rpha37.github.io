@@ -23,7 +23,7 @@ name                     : "알파의 블로그"
 description              : "개인 블로그"
 url                      : "https://rpha37.github.io"
 baseurl                  : "/alfablog"
-repository               : "rpha37/rpha37.github.io"
+repository               : # "ㅇ"
 teaser                   : # "ㅇ"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
