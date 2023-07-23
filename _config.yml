@@ -25,7 +25,7 @@ url                      : "https://rpha37.github.io"
 baseurl                  : # "/alfablog"
 repository               : # "ㅇ"
 teaser                   : # "ㅇ"
-logo                     : # path of logo image to display in the masthead, e.g. "Closed-Book-Emoji.svg"
+logo                     : "https://upload.wikimedia.org/wikipedia/commons/9/95/BlackFlagSymbol.svg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
