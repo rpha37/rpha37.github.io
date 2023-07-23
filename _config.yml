@@ -24,7 +24,7 @@ description              : "개인 블로그"
 url                      : "https://rpha37.github.io"
 baseurl                  : # "/alfablog"
 repository               : # "ㅇ"
-teaser                   : # "ㅇ"
+teaser                   : "https://upload.wikimedia.org/wikipedia/commons/9/95/BlackFlagSymbol.svg"
 logo                     : "https://upload.wikimedia.org/wikipedia/commons/9/95/BlackFlagSymbol.svg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
