@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "alpha37"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/내프로필.png"
   bio              : "**I am an Anarcho-communist, classical libertarian"
   location         : "Republic of Korea"
   email            : "notrpha@gmail.com"
