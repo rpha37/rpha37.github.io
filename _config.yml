@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "AnarchoAlpha Blog"
 title_separator          : "-"
-subtitle                 : "version 1.0"
+subtitle                 : "version beta 1.0"
 name                     : "Alfa_TridekSep"
 description              : "사상적 무오류성과 논리적 정합성, 수사적 면밀성의 축조"
 url                      : "https://rpha37.github.io"
