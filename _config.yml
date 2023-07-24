@@ -15,18 +15,18 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "En-US"
-title                    : "알파의 블로그"
+locale                   : "ko-KR"
+title                    : "알파의 사상 탐구 Blog"
 title_separator          : "-"
-subtitle                 : "사상적 발전과 탐구를 위한 블로그"
-name                     : "알파의 블로그"
-description              : "개인 블로그"
+subtitle                 : "version 1.0"
+name                     : "Alfa_TridekSep"
+description              : "사상적 무오류성과 논리적 정합성, 수사적 면밀성의 축조"
 url                      : "https://rpha37.github.io"
 baseurl                  : # "/alfablog"
-repository               : # "ㅇ"
+repository               : "https://github.com/rpha37/rpha37.github.io"
 teaser                   : "https://upload.wikimedia.org/wikipedia/commons/9/95/BlackFlagSymbol.svg"
 logo                     : "https://upload.wikimedia.org/wikipedia/commons/9/95/BlackFlagSymbol.svg"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "사상의 탐구"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -106,28 +106,25 @@ analytics:
 author:
   name             : "alpha37"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an Anarcho-communist, classical libertarian"
-  location         : "Gyeonggi-do, Republic of Korea"
+  bio              : "**I am an Anarcho-communist, classical libertarian"
+  location         : "Republic of Korea"
   email            : "notrpha@gmail.com"
   links:
     - label: "Email"
-      icon: "mailto:notrpha@email.com"
-      # url: "mailto:notrpha@email.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:notrpha@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "https://twitter.com/rpha37"
-      # url: "https://twitter.com/rpha37"
+      icon: "fas fa-fw fa-Twitter"
+      url: "https://twitter.com/rpha37"
     - label: "Discord"
-      icon: "https://discord.com/users/749507371964956714"
-      # url: "https://facebook.com/"
+      icon: "fas fa-fw fa-Discord"
+      url: "https://discord.com/users/749507371964956714"
     - label: "GitHub"
-      icon: "https://github.com/rpha37"
-      # url: "https://github.com/rpha37"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rpha37"
 
 # Site Footer
 footer:
