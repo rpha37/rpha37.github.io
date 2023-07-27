@@ -8,4 +8,8 @@ toc_label: "MYSELF"
 
 ![icon](/assets/logo.ico/apple-icon-120x120.png)
 
-# 원하는 자기소개 상세 내용
+# 📖 이데올로기
+
+# 📑 프로젝트
+
+# 🧭 활동사항
