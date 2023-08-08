@@ -25,7 +25,7 @@ url                      : "https://rpha37.github.io"
 baseurl                  : # "/alfablog"
 repository               : "https://github.com/rpha37/rpha37.github.io"
 teaser                   : "https://upload.wikimedia.org/wikipedia/commons/9/95/BlackFlagSymbol.svg"
-logo                     : "/assets/Closed-Book-Emoji.png"
+logo                     : "/assets/MyBlogLogo.png"
 masthead_title           : "알파의 사상 블로그"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
